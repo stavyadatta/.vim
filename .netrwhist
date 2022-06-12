@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/stavyadatta/Documents/Awiros/YOLO_V3/yolov3/data/images'
+let g:netrw_dirhist_0='/home/stavyadatta/Documents/Awiros/YOLO_V3/yolov3/data'
+let g:netrw_dirhist_9='/home/stavyadatta/Documents/Awiros/YOLO_V3/yolov3'
+let g:netrw_dirhist_8='/home/stavyadatta/.ssh'
+let g:netrw_dirhist_7='/proc'
+let g:netrw_dirhist_6='/'
+let g:netrw_dirhist_5='/home'
+let g:netrw_dirhist_4='/home/stavyadatta'
+let g:netrw_dirhist_3='/home/stavyadatta/.vim'
+let g:netrw_dirhist_2='/home/stavyadatta/.vim/bundle'
